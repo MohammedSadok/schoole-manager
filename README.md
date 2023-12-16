@@ -1,0 +1,1 @@
+# schoole-manager
